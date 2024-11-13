@@ -14,9 +14,9 @@ env_vars = {
     # {chap_num}: Chapter Number
     # {chap_name}: Manga Name
     # Example: Chapter {chap_num} {chap_name} @Manhwa_Arena
-    "FNAME": "Ch - {chap_num} {chap_name} @Manga_Universe",
+    "FNAME": "[MC] [{chap_num}] {chap_name} @Manga_Campus",
     # Thumb Path (Optional)
-    "THUMB": "",
+    "THUMB": "thumbnail.jpg",
     # Add authorized user IDs, separated by commas in a list
     "SUDOS": [5591954930]
 }
