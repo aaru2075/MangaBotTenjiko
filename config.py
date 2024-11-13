@@ -6,7 +6,7 @@ env_vars = {
     # Get from @BotFather
     "BOT_TOKEN": "7885135779:AAFJZZAiRjU6tc0Mx8j2vPnmrzreCLBNhlI",
     # Get from tembo.io
-    "DATABASE_URL_PRIMARY": "postgres://avnadmin:AVNS_u7YLST7hs-iUBX5w6nh@pg-29adbac6-kagut67.j.aivencloud.com:16924/defaultdb",
+    "DATABASE_URL_PRIMARY": "postgresql://postgres:rhf04OpB0SbaE2Yw@inversely-immaculate-oryx.data-1.use1.tembo.io:5432/postgres",
     # Logs channel username without @
     "CACHE_CHANNEL": "",
     # Force subs channel username without @
