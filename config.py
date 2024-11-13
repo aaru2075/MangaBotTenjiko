@@ -18,7 +18,7 @@ env_vars = {
     # Thumb Path (Optional)
     "THUMB": "thumbnail.jpg",
     # Add authorized user IDs, separated by commas in a list
-    "SUDOS": [5591954930]
+    "SUDOS": [5543390445]
 }
 
 # Determine the database URL (default to SQLite if not provided)
